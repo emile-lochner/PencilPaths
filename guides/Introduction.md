@@ -1,0 +1,1 @@
+PencilPaths is a tool that is intended to help authors create stories that are similar to the "Choose Your Own Adventure" series. From time to time the user will be presented with a series of choices that will affect the outcome of the story. The choices that are available to them are dependant on what they have accumulated throughout their journey. 

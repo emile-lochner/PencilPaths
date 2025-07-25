@@ -1,0 +1,2 @@
+## Installing wkhtmltopdf
+This program is used to convert HTML into PDFs and will be key to the functionality of PencilPaths. To install it visit https://wkhtmltopdf.org/downloads.html and install it to the `.bin`  folder in the PencilPaths root directory. You may need to create the `.bin` folder.
